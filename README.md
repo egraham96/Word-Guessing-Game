@@ -9,8 +9,8 @@ This is a word guessing game. The words are all associated with common Javascrip
 * Javascript
 
 ## Deployed Links:
-* [See Live Site](https://egraham96.github.io/Word-Guess-Game/)
-* [Link to GitHub Repo](https://github.com/egraham96/Word-Guess-Game)
+* [See Live Site](https://egraham96.github.io/Word-Guessing-Game/)
+* [Link to GitHub Repo](https://github.com/egraham96/Word-Guessing-Game)
                                                                                         
 ## Preview of Working Site:
 ![Screenshot of Deployed Application](Assets/ScreenshotofDeployedApplication.PNG)
