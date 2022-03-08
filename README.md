@@ -14,3 +14,9 @@ This is a word guessing game. The words are all associated with common Javascrip
                                                                                         
 ## Preview of Working Site:
 ![Screenshot of Deployed Application](Assets/ScreenshotofDeployedApplication.PNG)
+
+## How to Contribute:
+If you'd like to contribute to this project please send an email to eeg4@uw.edu or message me on github: egraham96
+
+## License:
+![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
